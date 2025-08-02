@@ -5,7 +5,7 @@ Passionate about offensive security, bug bounties, and building tools that surfa
 - 🎓 Computer Science student (University of Houston) with a focus on cybersecurity and penetration testing  
 - 🔍 Interests: Vulnerability research, bug bounty hunting, secure software development, adversary emulation  
 - 🚀 Currently learning: Blue team tooling, threat modeling, advanced network exploitation  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/daniel-garcia-mendez1120) • [Email](mailto:dgarc1120@gmail.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/daniel-garcia-mendez1120) • dgarc1120@gmail.com
 
 ---
 
@@ -44,5 +44,5 @@ Passionate about offensive security, bug bounties, and building tools that surfa
 ## 📫 Connect with me
 
 - **LinkedIn**:  [LinkedIn](https://www.linkedin.com/in/daniel-garcia-mendez1120)
-- **email**: [Email](mailto:dgarc1120@gmail.com)
+- **Emai**: dgarc1120@gmail.com
 
