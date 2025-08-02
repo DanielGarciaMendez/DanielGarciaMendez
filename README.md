@@ -29,8 +29,7 @@ Passionate about offensive security, bug bounties, and building tools that surfa
 
 ## 🎯 GitHub Highlights
 
-- Active in hands-on security practice through CTFs and tooling  
-- Applying version control and automation to reproducible vulnerability research  
+- Active in hands-on security practice through CTFs and tooling
 - Exploring how machine learning insights can inform anomaly detection and adversary behavior
 
 ---
@@ -39,13 +38,12 @@ Passionate about offensive security, bug bounties, and building tools that surfa
 
 - Building a portfolio of bug bounty reports with responsible disclosure  
 - Automating reconnaissance for scope-limited engagements  
-- Bridging ML/AI insights into detection evasion and red-team simulation  
+- Bridging ML/AI insights into cybersecurity 
 
 ---
 
-## 📌Pinned Goals
+## 📫 Connect with me
 
-- Earn meaningful bug bounty payouts by end of year  
-- Contribute to open-source security tooling  
-- Obtain practical offensive labs experience (e.g., Hack The Box / TryHackMe)
+- **LinkedIn**: linkedin.com/in/daniel-garcia-mendez1120
+- **email**: dgarc1120@gmail.com
 
