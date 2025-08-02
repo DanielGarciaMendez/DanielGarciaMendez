@@ -4,8 +4,8 @@ Passionate about offensive security, bug bounties, and building tools that surfa
 
 - 🎓 Computer Science student (University of Houston) with a focus on cybersecurity and penetration testing  
 - 🔍 Interests: Vulnerability research, bug bounty hunting, secure software development, adversary emulation  
-- 🚀 Currently learning: Red team tooling, threat modeling, advanced network exploitation  
-- 📫 Reach me: [your email] • [LinkedIn or other contact link]
+- 🚀 Currently learning: Blue team tooling, threat modeling, advanced network exploitation  
+- 📫 Reach me: dgarc1120@gmail.com • https://www.linkedin.com/in/daniel-garcia-mendez1120
 
 ---
 
@@ -23,9 +23,7 @@ Passionate about offensive security, bug bounties, and building tools that surfa
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| Smart Playlist Manager (self-built) | Built a doubly linked list C++ application to manage and prioritize media, demonstrating data structure mastery and clean memory-safe design. | C++, Data Structures |
-| Neural Network Sentiment Analyzer | Developed and trained a binary classification model to detect sentiment in reviews; used for understanding adversarial text inputs and feature robustness. | Python, NLP, TensorFlow/PyTorch |
-| CTF Vulnerability Audit Toolkit | Created a systematic audit workflow for Ruby on Rails and PHP CTF challenges, integrating manual and scripted checks to improve flag discovery efficiency. | Bash, Python, Recon Tools |
+
 
 ---
 
@@ -34,13 +32,6 @@ Passionate about offensive security, bug bounties, and building tools that surfa
 - Active in hands-on security practice through CTFs and tooling  
 - Applying version control and automation to reproducible vulnerability research  
 - Exploring how machine learning insights can inform anomaly detection and adversary behavior
-
----
-
-## 📊 Metrics & Social
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielGarciaMendez&show_icons=true&theme=dark)  
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGarciaMendez&layout=compact&theme=dark)
 
 ---
 
