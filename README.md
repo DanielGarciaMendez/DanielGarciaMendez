@@ -13,8 +13,7 @@ Passionate about offensive security, bug bounties, and building tools that surfa
 
 - **Languages:** Python and C++ 
 - **Security Tools & Frameworks:** Nmap, Wireshark, Burp Suite, ffuf  
-- **Development / DevSecOps:** Git, Docker, CI basics (for secure pipelines)  
-- **Cloud / Infrastructure:** AWS fundamentals (recon, IAM auditing)  
+**Machine Learning / AI:** scikit-learn, pandas, matplotlib
 - **Other:** Bug bounty methodology, vulnerability assessment, OWASP Top 10, post-exploitation scripting
 
 ---
