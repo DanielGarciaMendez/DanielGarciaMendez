@@ -21,8 +21,8 @@ Passionate about offensive security, bug bounties, and building tools that surfa
 ## 📁 Featured Projects
 
 | Project | Description | Tech |
-|--------|-------------|------|
-
+|---------------|-------------|------|
+  Music Library 
 
 ---
 
