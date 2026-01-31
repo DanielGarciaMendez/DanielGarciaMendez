@@ -22,9 +22,9 @@ Passionate about offensive security, bug bounties, and building tools that surfa
 
 | Project | Description | Tech |
 |---------------------|----------------|------|
-  Music Library         Full stack project 
-  Network Sniffer
-  AI Chatbot
+**[Music Library (DataBeats)](https://github.com/AlrightyTighty/DataBeats)**       | Full-stack music platform with user accounts, playlists, and verified artist features | React, ASP.NET Core, MySQL, AWS RDS
+  **[Network Sniffer](https://github.com/DanielGarciaMendez/Packet-Sniffer)**     | [in-progress] Low-level packet sniffer for analyzing Ethernet/Wi-Fi traffic and OSI layers | C/C++, Linux, libpcap, python
+  **[AI Chatbot](https://github.com/Break-Through-Tech-Ai-Root-Remedy/AI-Studio-Project)**          | ML-powered chatbot built as part of a competitive AI fellowship project | Python, TensorFlow, NLP
 
 ---
 
