@@ -23,7 +23,7 @@ Passionate about offensive security, bug bounties, and building tools that surfa
 | Project | Description | Tech |
 |---------------------|----------------|------|
 **[Music Library (DataBeats)](https://github.com/AlrightyTighty/DataBeats)**       | Full-stack music platform with user accounts, playlists, and verified artist features | React, ASP.NET Core, MySQL, AWS RDS
-  **[Network Sniffer](https://github.com/DanielGarciaMendez/Packet-Sniffer)**     | [in-progress] Low-level packet sniffer for analyzing Ethernet/Wi-Fi traffic and OSI layers | C/C++, Linux, libpcap, python
+  **[Enterprise SOC, Threat Hunting & Incident Response Lab](https://github.com/DanielGarciaMendez/Packet-Sniffer)**     | [in-progress] Enterprise blue-team lab for SIEM monitoring, endpoint investigation, threat hunting, and incident response | Wazuh, Sysmon, Windows, Linux, Active Directory, PowerShell, Python, MITRE ATT&CK
   **[AI Chatbot](https://github.com/Break-Through-Tech-Ai-Root-Remedy/AI-Studio-Project)**          | ML-powered chatbot built as part of a competitive AI fellowship project | Python, TensorFlow, NLP
 
 ---
