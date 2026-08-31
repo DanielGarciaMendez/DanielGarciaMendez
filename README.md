@@ -23,9 +23,9 @@ Passionate about cybersecurity, penetration testing, threat detection, and build
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Security Analytics – Network Intrusion Detection** | Security analytics project evaluating how well machine learning models detect and generalize to unseen or changing network attacks using real-world network-flow data and security-focused stress testing | Python, pandas, scikit-learn, Machine Learning, Network Security |
+| **[Security Analytics – Network Intrusion Detection](https://github.com/DanielGarciaMendez/Security-Analytics-Network-Intrusion-Detection)** | Security analytics project evaluating how well machine learning models detect and generalize to unseen or changing network attacks using real-world network-flow data and security-focused stress testing | Python, pandas, scikit-learn, Machine Learning, Network Security |
 | **eBPF/XDP Network Attack Protection** | Linux network defense project using eBPF/XDP to inspect, filter, and mitigate suspicious traffic at the kernel networking layer while measuring performance and packet-processing impact | C, eBPF, XDP, Linux, TCP/IP, bpftool |
-| **Enterprise SOC, Threat Hunting & Incident Response Lab** | Enterprise-style blue-team lab focused on SIEM monitoring, endpoint telemetry, threat hunting, detection engineering, and incident response across Windows and Linux environments | Wazuh, Sysmon, Windows, Linux, Active Directory, PowerShell, Python, MITRE ATT&CK |
+| **[Enterprise SOC, Threat Hunting & Incident Response Lab](https://github.com/DanielGarciaMendez/enterprise-soc-threat-hunting-lab)** | Enterprise-style blue-team lab focused on SIEM monitoring, endpoint telemetry, threat hunting, detection engineering, and incident response across Windows and Linux environments | Wazuh, Sysmon, Windows, Linux, Active Directory, PowerShell, Python, MITRE ATT&CK |
 
 ---
 
