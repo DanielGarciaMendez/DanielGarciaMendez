@@ -19,12 +19,7 @@ Passionate about cybersecurity, penetration testing, threat detection, and build
 
 ---
 
-## 📁 Projects
-
-<details>
-<summary><strong>🚧 Projects I'm Working On Right Now</strong></summary>
-
-<br>
+## 🚧 Projects I'm Working On Right Now
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -32,21 +27,14 @@ Passionate about cybersecurity, penetration testing, threat detection, and build
 | **eBPF/XDP Network Attack Protection** | Linux network defense project using eBPF/XDP to inspect, filter, and mitigate suspicious traffic at the kernel networking layer while measuring performance and packet-processing impact | C, eBPF, XDP, Linux, TCP/IP, bpftool |
 | **Enterprise SOC, Threat Hunting & Incident Response Lab** | Enterprise-style blue-team lab focused on SIEM monitoring, endpoint telemetry, threat hunting, detection engineering, and incident response across Windows and Linux environments | Wazuh, Sysmon, Windows, Linux, Active Directory, PowerShell, Python, MITRE ATT&CK |
 
-</details>
+---
 
-<br>
-
-<details>
-<summary><strong>⭐ Featured Projects</strong></summary>
-
-<br>
+## ⭐ Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[Music Library (DataBeats)](https://github.com/AlrightyTighty/DataBeats)** | Full-stack music platform with user accounts, playlists, and verified artist features | React, ASP.NET Core, MySQL, AWS RDS |
 | **[AI Chatbot](https://github.com/Break-Through-Tech-Ai-Root-Remedy/AI-Studio-Project)** | ML-powered chatbot built as part of a competitive AI fellowship project | Python, TensorFlow, NLP |
-
-</details>
 
 ---
 
